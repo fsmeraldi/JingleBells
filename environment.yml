@@ -1,0 +1,6 @@
+name: python 3.2
+dependencies:
+  - python=3.2
+  - pyknon
+  - music21
+  - pillow
