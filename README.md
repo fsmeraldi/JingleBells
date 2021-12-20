@@ -1,3 +1,5 @@
+# Jingle Bells - A festive notebook :)
+
 This is a fork of James Slack's Christmas notebook available 
 [here](https://github.com/jamesaslack/christmas). I fixed dependencies 
 and a few minor bugs and included a copy of
@@ -6,10 +8,40 @@ available through pip. This notebook
 requires Python 3.2, so it's best run as a Binder (it won't run on the
 QM JHub).
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fsmeraldi/JingleBells/HEAD?urlpath=%2Ftree%2FJingleBells.ipynb)
-
+Click here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fsmeraldi/JingleBells/HEAD?urlpath=%2Ftree%2FJingleBells.ipynb)
 
 Note that I do not support this software in any way!
+
+```
+-=[ Christmas tree ]=-  11/97
+
+           *             ,
+                       _/^\_
+                      <     >
+     *                 /.-.\         *
+              *        `/&\`                   *
+                      ,@.*;@,
+                     /_o.I %_\    *
+        *           (`'--:o(_@;
+                   /`;--.,__ `')             *
+                  ;@`o % O,*`'`&\
+            *    (`'--)_@ ;o %'()\      *
+                 /`;--._`''--._O'@;
+                /&*,()~o`;-.,_ `""`)
+     *          /`,@ ;+& () o*`;-';\
+               (`""--.,_0 +% @' &()\
+               /-.,_    ``''--....-'`)  *
+          *    /@%;o`:;'--,.__   __.'\
+              ;*,&(); @ % &^;~`"`o;@();         *
+              /(); o^~; & ().o@*&`;&%O\
+        jgs   `"="==""==,,,.,="=="==="`
+           __.----.(\-''#####---...___...-----._
+         '`         \)_`"""""`
+                 .--' ')
+               o(  )_-\
+                 `"""` `
+```
+[source](https://asciiart.website/index.php?art=holiday/christmas/trees)
 
 
 --------------------------
