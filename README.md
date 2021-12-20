@@ -41,7 +41,7 @@ Note that I do not support this software in any way!
                o(  )_-\
                  `"""` `
 ```
-[source](https://asciiart.website/index.php?art=holiday/christmas/trees)
+[ASCII art source](https://asciiart.website/index.php?art=holiday/christmas/trees)
 
 
 --------------------------
