@@ -1,9 +1,24 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jamesaslack/christmas/master)
+This is a fork of James Slack's Christmas notebook available 
+[here](https://github.com/jamesaslack/christmas). I fixed dependencies 
+and a few minor bugs and included a copy of
+[pyknon](https://github.com/kroger/pyknon) that apparently is no longer 
+available through pip. This notebook
+requires Python 3.2, so it's best run as a Binder (it won't run on the
+QM JHub).
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fsmeraldi/JingleBells/HEAD?urlpath=%2Ftree%2FJingleBells.ipynb)
+
+
+Note that I do not support this software in any way!
+
+
+--------------------------
+## Excerpt from the original README.md file:
+
 
 This is a collective of festive coding activities using Jupyter notebooks written in Python.
 The main activity is to use Pyknon to create and play a Midi file to create sections of Jingle bells building together until you can play the entire song.
-There are also two additional activities to create a Christmas tree from common keyboard characters and also to use PIL to write Merry Christmas on top of an image.
-This code was created to the best of my current ability but there is certainly room for improvement. This should work on most basic Jupyter environments but you can use !pip install to add any missing packages.
+There are also two additional activities to create a Christmas tree from common keyboard characters and also to use PIL to write Merry Christmas on top of an image. [...]
 
 Licenses for Images:
   Rudoplh.png - https://pixabay.com/en/rudolph-reindeer-christmas-happy-951494/ CCO
