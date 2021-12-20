@@ -1,6 +1,0 @@
-name: python 3.3
-dependencies:
-  - python=3.3
-  - pyknon
-  - music21
-  - pillow
